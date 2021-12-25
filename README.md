@@ -2,8 +2,18 @@
 
 A tiny rusty Xmas tree without bells and whistles
 
-![images/screenshot.png]
+![A screenshot of the xmas tree](images/screenshot.png)
 
+
+## Run
+
+Just clone this repo and run:
+
+```bash
+cargo run
+```
+
+(Requires to have Rust installed)
 
 ## Contributing
 
